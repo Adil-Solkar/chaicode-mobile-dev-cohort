@@ -59,4 +59,3 @@ On a simulator: Press i in the terminal to open the iOS Simulator, or press a to
 # Notes editing screen
 
 ![Notes editing screen in dark mode](./assets/images/Screenshot_2026-05-12-22-20-12-01_f73b71075b1de7323614b647fe394240.jpg)
-)

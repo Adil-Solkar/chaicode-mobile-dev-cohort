@@ -25,7 +25,7 @@ import NoteCard from "../components/NoteCard";
 export default function AppIndex() {
   const systemColorScheme = useColorScheme();
   const [isDark, setIsDark] = useState(systemColorScheme === "dark");
-  const [currentView, setCurrentView] = useState("list"); // 'list' | 'editor'
+  const [currentView, setCurrentView] = useState("list"); // 'list' | 'editor' conditional rendering
 
   const [notes, setNotes] = useState(dummyNotes);
   const [searchQuery, setSearchQuery] = useState("");
