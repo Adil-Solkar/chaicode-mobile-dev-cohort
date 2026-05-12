@@ -48,3 +48,15 @@ npx expo start
 On a physical device: Download the Expo Go app on your iOS or Android phone, then scan the QR code that appears in your terminal.
 
 On a simulator: Press i in the terminal to open the iOS Simulator, or press a to open the Android Emulator.
+
+## Screenshots
+
+# Notes listing screen
+
+![Notes listing screen in dark mode](./assets/images/Screenshot_2026-05-12-22-19-53-72_f73b71075b1de7323614b647fe394240.jpg)
+
+
+# Notes editing screen
+
+![Notes editing screen in dark mode](./assets/images/Screenshot_2026-05-12-22-20-12-01_f73b71075b1de7323614b647fe394240.jpg)
+)

@@ -30,17 +30,17 @@ const styles = StyleSheet.create({
     marginBottom: 12,
   },
   title: {
-    fontSize: 18,
+    fontSize: 16,
     fontWeight: '700',
     marginBottom: 6,
   },
   snippet: {
-    fontSize: 15,
+    fontSize: 13,
     lineHeight: 22,
     marginBottom: 12,
   },
   date: {
-    fontSize: 12,
+    fontSize: 11,
     fontWeight: '500',
   }
 });
