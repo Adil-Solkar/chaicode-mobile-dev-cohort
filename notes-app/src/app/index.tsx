@@ -133,6 +133,7 @@ export default function AppIndex() {
             <FlatList
               data={filteredNotes}
               numColumns={2}
+              keyExtractor={(item) => item.id}
               columnWrapperStyle={{ gap: 12 }}
               contentContainerStyle={styles.listPadding}
               showsVerticalScrollIndicator={false}
